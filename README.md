@@ -1,4 +1,4 @@
-## Olá! Me chamo Leonardo, atualmente apenas estudante de programação.
+## Olá! Me chamo Leonardo! Atualmente apenas estudante de programação.
 
 <div align="center">
   <a href="https://github.com/LeonardoFurcs">
