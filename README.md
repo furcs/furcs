@@ -1,4 +1,4 @@
-## Olá! Me chamo Leonardo! Atualmente apenas estudante de programação.
+## Olá! Me chamo Leonardo! Estudante de programação focado emm Back-end.
 
 <div align="center">
   <a href="https://github.com/LeonardoFurcs">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFurcs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  Estudando:
+  ## Estudando:
   <img align="center" alt="frcs-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="frcs-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
