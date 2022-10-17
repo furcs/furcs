@@ -1,4 +1,4 @@
-## Olá! Me chamo Leonardo! Estudante de programação focado em Back-end.
+## Hi, There!
 
 <div align="center">
   <a href="https://github.com/LeonardoFurcs">
