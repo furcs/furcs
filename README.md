@@ -1,12 +1,10 @@
-## Hi, There, im Leonardo!
+### Hi there, I'm Leonardo!
 
-<div align="center">
-  <a href="https://github.com/LeonardoFurcs">
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="frcs-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="frcs-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
-</div>
+## About me:
+- 🎂 24 years.
+- 🧑‍💻 Looking for an internship.
+- 💜 Community enthusiast.
