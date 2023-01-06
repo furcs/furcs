@@ -6,5 +6,6 @@
 
 ## About me:
 - 🎂 24 years.
+- 📍 Rio de Janeiro, Brasil.
 - 🧑‍💻 Looking for an internship.
 - 💜 Community enthusiast.
