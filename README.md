@@ -1,8 +1,7 @@
-## Hi, There!
+## Hi, There, im Leonardo!
 
 <div align="center">
   <a href="https://github.com/LeonardoFurcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFurcs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -12,8 +11,6 @@
   
 </div>
   
-  ##
- 
 <div> 
   <a href="https://twitter.com/furcs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/Furcs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
