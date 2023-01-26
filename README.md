@@ -9,6 +9,6 @@ My name is Leonardo Araujo i'm currently 24 years old and i'm also a software st
 ## About me:
 
 - 📍 Rio de Janeiro, Brasil
-- 🖥 Software student
-- 🧑‍💻 Looking for an internship
+- 📚 Software student
+- 💻 Looking for an internship
 - 💜 Community enthusiast
