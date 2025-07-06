@@ -1,6 +1,6 @@
 ### Welcome!
 
-My name is Leonardo Araujo i'm currently 26 years old
+My name is Leonardo Araujo i'm currently 27 years old
 
 
 ## About me:
